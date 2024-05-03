@@ -5611,9 +5611,12 @@
                 "weights": 6819.0
             }, 
             {
-                "bad": true, 
+                "bad": false, 
+                "events": 5066, 
                 "name": "/store/group/phys_higgs/cmshgg/emanuele/flashgg/Era2016_legacyPreVFP_v1_Summer20UL/legacyRunII/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCP5_13TeV_Pythia8/Era2016_legacyPreVFP_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL16MiniAODAPV-106X_mcRun2_asymptotic_preVFP_v8-v3/230405_224654/0000/myMicroAODOutputFile_793.root", 
-                "nevents": 5066
+                "nevents": 5066, 
+                "totEvents": 5066, 
+                "weights": 5066.0
             }, 
             {
                 "bad": false, 

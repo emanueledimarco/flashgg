@@ -2569,9 +2569,12 @@
                 "weights": 2168.01416015625
             }, 
             {
-                "bad": true, 
+                "bad": false, 
+                "events": 1230, 
                 "name": "/store/group/phys_higgs/cmshgg/emanuele/flashgg/Era2016_legacyPreVFP_v1_Summer20UL/legacyRunII/WplusH_HToGG_WToAll_M125_TuneCP5_13TeV-powheg-pythia8/Era2016_legacyPreVFP_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL16MiniAODAPVv2-106X_mcRun2_asymptotic_preVFP_v11-v1/220923_112710/0000/myMicroAODOutputFile_7.root", 
-                "nevents": 1230
+                "nevents": 1230, 
+                "totEvents": 1230, 
+                "weights": 1061.95947265625
             }, 
             {
                 "bad": false, 

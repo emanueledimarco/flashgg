@@ -6849,7 +6849,7 @@
                 "weights": 2710771.75
             }, 
             {
-                "bad": false, 
+                "bad": true, 
                 "events": 25122, 
                 "name": "/store/group/phys_higgs/cmshgg/emanuele/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M125_TuneCP5_13TeV-amcatnloFXFX-pythia8_storeWeights/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer19UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/231121_004333/0000/myMicroAODOutputFile_13.root", 
                 "nevents": 25122, 
@@ -6977,7 +6977,7 @@
                 "weights": 2737180.25
             }, 
             {
-                "bad": false, 
+                "bad": true, 
                 "events": 25032, 
                 "name": "/store/group/phys_higgs/cmshgg/emanuele/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M125_TuneCP5_13TeV-amcatnloFXFX-pythia8_storeWeights/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer19UL18MiniAOD-106X_upgrade2018_realistic_v11_L1v1-v1/231121_004333/0000/myMicroAODOutputFile_12.root", 
                 "nevents": 25032, 
@@ -7175,6 +7175,53 @@
                 "nevents": 24861, 
                 "totEvents": 24861, 
                 "weights": 2744696.75
+            }
+        ], 
+        "parent_n_units": null, 
+        "vetted": true
+    }, 
+    "/GluGluHToGG_M40_TuneCP5_13TeV-amcatnloFXFX-pythia8/phys_higgs-Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2-9476d5c13ede62010ffe759ff078fe2e/USER": {
+        "dset_type": "mc", 
+        "files": [
+            {
+                "bad": false, 
+                "events": 25026, 
+                "name": "/store/group/phys_higgs/cmshgg/rasharma/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M40_TuneCP5_13TeV-amcatnloFXFX-pythia8/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/230503_131553/0000/myMicroAODOutputFile_3.root", 
+                "nevents": 25026, 
+                "totEvents": 25026, 
+                "weights": 17194942.0
+            }, 
+            {
+                "bad": false, 
+                "events": 24104, 
+                "name": "/store/group/phys_higgs/cmshgg/rasharma/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M40_TuneCP5_13TeV-amcatnloFXFX-pythia8/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/230503_131553/0000/myMicroAODOutputFile_4.root", 
+                "nevents": 24104, 
+                "totEvents": 24104, 
+                "weights": 16540625.0
+            }, 
+            {
+                "bad": false, 
+                "events": 24056, 
+                "name": "/store/group/phys_higgs/cmshgg/rasharma/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M40_TuneCP5_13TeV-amcatnloFXFX-pythia8/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/230503_131553/0000/myMicroAODOutputFile_2.root", 
+                "nevents": 24056, 
+                "totEvents": 24056, 
+                "weights": 16556680.0
+            }, 
+            {
+                "bad": false, 
+                "events": 25092, 
+                "name": "/store/group/phys_higgs/cmshgg/rasharma/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M40_TuneCP5_13TeV-amcatnloFXFX-pythia8/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/230503_131553/0000/myMicroAODOutputFile_5.root", 
+                "nevents": 25092, 
+                "totEvents": 25092, 
+                "weights": 16952082.0
+            }, 
+            {
+                "bad": false, 
+                "events": 1945, 
+                "name": "/store/group/phys_higgs/cmshgg/rasharma/flashgg/Era2018_legacy_v1_Summer20UL/legacyRunII/GluGluHToGG_M40_TuneCP5_13TeV-amcatnloFXFX-pythia8/Era2018_legacy_v1_Summer20UL-legacyRunII-v0-RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/230503_131553/0000/myMicroAODOutputFile_1.root", 
+                "nevents": 1945, 
+                "totEvents": 1945, 
+                "weights": 1329712.75
             }
         ], 
         "parent_n_units": null, 
